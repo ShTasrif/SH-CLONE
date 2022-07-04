@@ -9,3 +9,5 @@ git clone https://github.com/ShTasrif/SH-CLONE
 cd SH-CLONE
 python sh-clone.py
 ```
+
+## HOME
